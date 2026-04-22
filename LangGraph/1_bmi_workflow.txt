@@ -1,0 +1,1 @@
+1.input(weight,height)--> 2.cal_bmi --> 3.output

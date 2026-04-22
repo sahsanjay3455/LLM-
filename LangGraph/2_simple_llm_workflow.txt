@@ -1,0 +1,3 @@
+start-->llm(q--a)-->end
+
+state: question:str , answer:str
